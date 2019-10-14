@@ -14,3 +14,13 @@ I'm interested in learning about coding and software development.
       <a href="{{post.url}}">{{post.title}}</a>
     </li>
 </ul>
+
+<!--Linking porject repo webpage and to a project repo-->
+<ul>
+<li>
+<a href="https://lzgideas20.github.io/HelloWorld/" Hello World Project</a>
+</li>
+<li>
+<a href="https://github.com/lzgideas20/HelloWorld" Hello World Repo </a>
+</li>
+</ul>
