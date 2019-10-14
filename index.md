@@ -13,6 +13,7 @@ I'm interested in learning about coding and software development.
     <li>
       <a href="{{post.url}}">{{post.title}}</a>
     </li>
+  {% endfor %}
 </ul>
 
 <!--Linking porject repo webpage and to a project repo-->
